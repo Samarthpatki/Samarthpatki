@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 
 </h1>
 <p> Welcome to my GitHub page! </br> I'm <b>Samarth</b>, Fullstack & Mobile Applicaton Developer from <b>India</b>. </p>
-<br>
+
 <h2>👨‍💻 About Me</h2>
 <p> I'm a passionate Fullstack & Mobile App Developer with <b>1.5+ years of professional software engineering experience</b>. I hold a <b>Bachelor’s degree in Computer Applications (BCA)</b> where I graduated as a <b>University Topper</b>, followed by a <b>Master’s degree in Computer Applications (MCA)</b>. </p>
 <p> I specialize in building scalable web and mobile applications using modern technologies. Currently, I’m focused on: </p>
@@ -13,7 +13,7 @@
    <li>🚀 Open Source Contributions </li>
 </ul>
 <p> I enjoy working on real-world projects, improving user experience, and continuously upskilling myself in modern technologies. </p>
-<br>
+
 <h2>🛠️ Things I Code With</h2>
 
 <p>
@@ -54,7 +54,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-<br>
 <h2>🌱 What I’m Currently Working On</h2>
 <ul>
 <li> Building full-stack MERN & Next.js projects</li>
@@ -62,7 +61,7 @@
 <li> Strengthening problem-solving & system design skills</li>
 <li> Learning RAG & GenAI</p>
 </ul>
-<br>
+
 <h2>📫 Where to Find Me</h2>
 
 <p>
@@ -71,7 +70,6 @@
 <a href="https://www.linkedin.com/in/samarthpatki/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img width="1"/>
 <a href="https://www.instagram.com/samarthpatki/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-<h2></h2>
-<p align="center"> ✨ <b>Always learning. Always building. Always improving.</b> ✨ </p>
-<br>
+</p><br>
+<h3 align="center"> ✨ <b>Always learning. Always building. Always improving.</b> ✨ </h3>
+
