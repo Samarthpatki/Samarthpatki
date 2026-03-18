@@ -17,7 +17,21 @@
 <h2>🛠️ Things I Code With</h2>
 
 <p>
-  <!-- 🌐 Web Development -->
+  
+  <!-- 📱 Mobile Development -->
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+  <img alt="GetX" src="https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Riverpod" src="https://img.shields.io/badge/-Riverpod-027DFD?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="BLoC" src="https://img.shields.io/badge/-BLoC-42A5F5?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+
+  <br/>
+    <!-- 🌐 Web Development -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -31,18 +45,6 @@
   <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Payment Gateways" src="https://img.shields.io/badge/-Payment_Gateways-00C853?style=flat-square&logo=stripe&logoColor=white" />
 
-  <br/>
-
-  <!-- 📱 Mobile Development -->
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-  <img alt="GetX" src="https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Riverpod" src="https://img.shields.io/badge/-Riverpod-027DFD?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="BLoC" src="https://img.shields.io/badge/-BLoC-42A5F5?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
   <br/>
 
