@@ -1,11 +1,11 @@
 <h1> 
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 
 </h1>
-<p> Welcome to my GitHub page! </br> I'm <b>Samarth</b>, Mobile Applicaton & Fullstack Developer from <b>India</b><br> 🔗 <b><a href="https://www.samarthpatki.com">Visit Portfolio- samarthpatki.com </a></b></p>
+<p> Welcome to my GitHub page! </br> I'm <b>Samarth</b>, GenAI & Fullstack Developer from <b>India</b><br> 🔗 <b><a href="https://www.samarthpatki.com">Visit Portfolio- samarthpatki.com </a></b></p>
 
 
 <h2>👨‍💻 About Me</h2>
-<p> I'm a passionate Fullstack & Mobile App Developer with <b>1.5+ years of professional software engineering experience</b>. I hold a <b>Bachelor’s degree in Computer Applications (BCA)</b> where I graduated as a <b>University Topper</b>, followed by a <b>Master’s degree in Computer Applications (MCA)</b>. </p>
+<p> I'm a passionate GenAI Fullstack & Mobile App Developer with <b>1.5+ years of professional software engineering experience</b>. I hold a <b>Bachelor’s degree in Computer Applications (BCA)</b> where I graduated as a <b>University Topper</b>, followed by a <b>Master’s degree in Computer Applications (MCA)</b>. </p>
 <p> I specialize in building scalable web and mobile applications using modern technologies. Currently, I’m focused on: </p>
 <ul>
    <li>📱 Mobile App Development (Flutter & Android)</li>
